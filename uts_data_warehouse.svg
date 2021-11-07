@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="171 61 766 371" width="595px" height="310px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="119" height="20" x="632" y="249" style="fill:#007;stroke:black;"/>
+   <text width="119" height="20" x="637" y="263" style="fill:#fff;" font-family="Arial" font-size="16px"> customers</text>
+   <rect width="119" height="20" x="632" y="269" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="637" y="283" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="119" height="20" x="632" y="289" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="637" y="303" style="fill:black;" font-family="Arial" font-size="16px">country</text>
+   <rect width="119" height="20" x="632" y="309" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="637" y="323" style="fill:black;" font-family="Arial" font-size="16px">customerName</text>
+   <rect width="119" height="20" x="632" y="329" style="fill:none;stroke:black;"/>
+   <text width="119" height="20" x="637" y="343" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="103" height="20" x="186" y="256" style="fill:#007;stroke:black;"/>
+   <text width="103" height="20" x="191" y="270" style="fill:#fff;" font-family="Arial" font-size="16px"> orderdetails</text>
+   <rect width="103" height="20" x="186" y="276" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="191" y="290" style="fill:black;" font-family="Arial" font-size="16px">orderDate</text>
+   <rect width="103" height="20" x="186" y="296" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="191" y="310" style="fill:black;" font-family="Arial" font-size="16px">status</text>
+   <rect width="103" height="20" x="186" y="316" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="191" y="330" style="fill:black;" font-family="Arial" font-size="16px">requiredDate</text>
+   <rect width="103" height="20" x="186" y="336" style="fill:none;stroke:black;"/>
+   <text width="103" height="20" x="191" y="350" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+   <rect width="120" height="20" x="399" y="76" style="fill:#007;stroke:black;"/>
+   <text width="120" height="20" x="404" y="90" style="fill:#fff;" font-family="Arial" font-size="16px"> productlines</text>
+   <rect width="120" height="20" x="399" y="96" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="404" y="110" style="fill:black;" font-family="Arial" font-size="16px">productName</text>
+   <rect width="120" height="20" x="399" y="116" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="404" y="130" style="fill:black;" font-family="Arial" font-size="16px">productVendor</text>
+   <rect width="120" height="20" x="399" y="136" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="404" y="150" style="fill:black;" font-family="Arial" font-size="16px">quantityInStock</text>
+   <rect width="120" height="20" x="399" y="156" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="404" y="170" style="fill:black;" font-family="Arial" font-size="16px">valuename</text>
+</svg>
